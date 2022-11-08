@@ -22,7 +22,7 @@ const ViewComponent = (props) => {
          
           <Card className="sign-container">
           <img src={logo} style= {{ width:"20%", height:"15vh", borderRadius:"50%"}}/>
-           <h1>Sign In</h1>
+           <h1>Sign To shop Management</h1>
             <Stack spacing={3} alignItems="center" justifyContent="center">
               <TextField
                 fullWidth
